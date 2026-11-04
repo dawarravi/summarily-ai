@@ -4,7 +4,7 @@
 
 Built with **Next.js 16 (App Router)**, **React 19**, **TypeScript**, the **Vercel AI SDK**, and **Vercel AI Gateway**.
 
-**Live demo:** _coming soon_
+**Live demo:** [summarily-mu.vercel.app](https://summarily-mu.vercel.app)
 
 ---
 
